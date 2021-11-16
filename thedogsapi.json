@@ -1,7 +1,114 @@
-{
+[
+	{
+		"id":1,
+		"name": "beaglier",
+		"images": {
+			"url": "https://dogtime.com/assets/uploads/2019/11/beaglier-mixed-dog-breed-pictures-cover-650x368.jpg"
+		}
+	},
+	{
+		"id":2,
+		"name": "afador",
+		"images": {
+			"url": "https://dogtime.com/assets/uploads/2019/08/afador-mixed-dog-breed-pictures-1-1442x1328.jpg"
+		}
+	},
+	{
+		"id":3,
+		"name": "affenhuahua",
+		"images": {
+			"url": "https://www.dogtime.com/assets/uploads/2020/02/affenhuahua-mixed-dog-breed-pictures-1-1442x960.jpg"
+		}
+	},
+	{
+		"id":4,
+		"name": "beaglier",
+		"images": {
+			"url": "https://dogtime.com/assets/uploads/2019/11/beaglier-mixed-dog-breed-pictures-cover-650x368.jpg"
+		}
+	},
+	{
+		"id":5,
+		"name": "akita-chow",
+		"images": {
+			"url": "https://www.dogtime.com/assets/uploads/2020/04/akita-chow-mixed-dog-breed-pictures-1-1442x961.jpg"
+		}
+	},
+	{
 		"id":6,
 		"name": "cesky-terrier",
 		"images": {
 			"url": "https://dogtime.com/assets/uploads/gallery/cesky-terrier-dog-breed-pictures/right-4.jpg"
 		}
+	},
+	{
+		"id":7,
+		"name": "chi-poo",
+		"images": {
+			"url": "https://dogtime.com/assets/uploads/gallery/chi-poo-mixed-dog-breed-pictures/chi-poo-mixed-dog-breed-pictures-6.jpg"
+		}
+	},
+	{
+		"id":8,
+		"name": "doxiepoo",
+		"images": {
+			"url": "https://dogtime.com/assets/uploads/gallery/doxiepoo-mixed-dog-breed-pictures/doxiepoo-mixed-dog-breed-pictures-2.jpg"
+		}
+	},
+	{
+		"id":9,
+		"name": "goldendoodle",
+		"images": {
+			"url": "https://dogtime.com/assets/uploads/gallery/goldendoodle-dog-breed-pictures/threequarters-10_2.jpg"
+		}
+	},
+	{
+		"id":10,
+		"name": "hokkaido",
+		"images": {
+			"url": "https://dogtime.com/assets/uploads/gallery/hokkaido-dog-breed-pictures/hokkaido-dog-breed-pictures-2.jpg"
+		}
+	},
+	{
+		"id":12,
+		"name": "old-english-sheepdog",
+		"images": {
+			"url": "https://dogtime.com/assets/uploads/gallery/old-english-sheepdog-dog-breed-pictures/floof-6.jpg"
+		}
+	},
+	{
+		"id":11,
+		"name": "huskydoodle",
+		"images": {
+			"url": "https://www.dogtime.com/assets/uploads/2019/12/huskydoodle-mixed-dog-breed-pictures-1.jpg"
+		}
+	},
+	{
+		"id":13,
+		"name": "pomeranian",
+		"images": {
+			"url": "https://dogtime.com/assets/uploads/gallery/pomeranian-dog-breed-pictures/5-face.jpg"
+		}
+	},
+	{
+		"id":14,
+		"name": "pyredoodle",
+		"images": {
+			"url": "https://dogtime.com/assets/uploads/gallery/pyredoodle-mixed-dog-breed-pictures/pyredoodle-mixed-dog-breed-pictures-3.jpg"
+		}
+	},
+	{
+		"id":15,
+		"name": "Golden-Retriever",
+		"images": {
+			"url": "https://travel.home.sndimg.com/content/dam/images/travel/fullrights/2019/2/25/0/American_Kennel_Club_Golden-Retriever-On-White-05.jpg.rend.hgtvcom.966.644.suffix/1551125068729.jpeg"
+		}
+	},
+	{
+		"id":16,
+		"name": "italian",
+		"images": {
+			"url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/italian-dog-breeds-neapolitan-mastiff-1574474059.jpg"
+		}
 	}
+]
